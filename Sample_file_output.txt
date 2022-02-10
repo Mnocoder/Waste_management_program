@@ -1,0 +1,90 @@
+           	WASTE MANAGEMENT
+
+	Month 1
+	~~~~~~~
+	No. of areas : 2
+	No. of houses in area 1 : 2
+	No. of houses in area 2 : 2
+	Number of days in this month : 30
+	-------------------------------------
+	Days of wastes :
+				Degradable : 1,4,7,10,...
+				Plastic    : 2,5,8,11,...
+				Electronic : 3,6,9,12,...
+
+	______________________________________________
+	| \\House|
+	|  \\    |	1	2	3	4
+	|Day\\   |
+	----------------------------------------------
+	|   1    |	5.00	5.00	5.00	1.00
+	|2	 |	5.00	5.00	5.00	1.00
+	|3	 |	5.00	5.00	5.00	1.00
+	|4	 |	5.00	5.00	5.00	1.00
+	|5	 |	5.00	5.00	5.00	1.00
+	|6	 |	5.00	5.00	5.00	1.00
+	|7	 |	5.00	5.00	5.00	1.00
+	|8	 |	5.00	5.00	5.00	1.00
+	|9	 |	5.00	5.00	5.00	1.00
+	|10	 |	5.00	5.00    5.00	1.00
+	|11	 |	5.00	5.00	5.00	1.00
+	|12	 |	5.00	5.00	5.00	1.00
+	|13	 |	5.00	5.00	5.00	1.00
+	|14	 |	5.00	5.00	5.00	1.00
+	|15	 |	5.00	5.00	5.00	1.00
+	|16	 |	5.00	5.00	5.00	1.00
+	|17	 |	5.00	5.00	5.00	1.00
+	|18	 |	5.00	5.00	5.00	1.00
+	|19	 |	5.00	5.00	5.00	1.00
+	|20	 |	5.00	5.00    5.00	1.00
+	|21	 |	5.00	5.00	5.00	1.00
+	|22	 |	5.00	5.00	5.00	1.00
+	|23	 |	5.00	5.00	5.00	1.00
+	|24	 |	5.00	5.00	5.00	1.00
+	|25	 |	5.00	5.00    5.00	1.00
+	|26	 |	5.00	5.00	5.00	1.00
+	|27	 |	5.00	5.00	5.00	1.00
+	|28	 |	5.00	5.00	5.00	1.00
+	|29	 |	5.00	5.00    5.00	1.00
+	|30	 |	5.00	5.00	5.00	1.00
+	_____________________________________________
+
+Index : 
+	~ Statistics
+	~ House number of house which gave less quantity of waste
+	~ Processing fee of each house and total earning for municipality
+	~ Percentage of each waste
+
+Statistics : Average waste collection
+	Area 1
+	Degradable waste :  50.00 kg
+	Plastic waste    :  50.00 kg
+	Electronic waste :  50.00 kg
+	Total waste      :  50.00 kg
+	Area 2
+	Degradable waste :  30.00 kg
+	Plastic waste    :  30.00 kg
+	Electronic waste :  30.00 kg
+	Total waste      :  30.00 kg
+
+House with Least Waste :
+	The house number 4 gave 30.00 kg of waste which is least of all
+	So the municipality decided to refund the processing fee of that house
+
+Processing fee of waste per house :
+	Area 1
+	House number 1 : 1500.00 rupees
+	House number 2 : 1500.00 rupees
+	Area 2
+	House number 3 : 1500.00 rupees
+	House number 4 : 0.00 rupees
+	Total earning for municipality from all areas in this month:  4500.00 rupees
+
+Percentage of wastes in all areas :
+	Degradable waste  :  33.33 %%
+	Plastic  waste    :  33.33 %%
+	Electronic waste  :  33.33 %%
+
+End of the month !
+
+End of the year !
