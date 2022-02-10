@@ -1,12 +1,14 @@
 # Waste_management_program
 
 # Problem Specification:
-              ~ A city municipality decided to collect wastes from
-              residential area under its administration.
-              ~ Every day a truck with few employees go door to door
-              for collecting waste from houses. 
-              ~ Each day is assigned for particular type of waste 
-              (degradable waste, plastic waste and electronic waste). 
+       ~ A city municipality decided to collect wastes from
+         residential area under its administration.
+         
+       ~ Every day a truck with few employees go door to door
+         for collecting waste from houses. 
+         
+       ~ Each day is assigned for particular type of waste 
+         (degradable waste, plastic waste and electronic waste). 
 
 
 # Problem Identification:
