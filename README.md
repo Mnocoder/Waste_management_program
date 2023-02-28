@@ -1,4 +1,4 @@
-# Waste_management_program
+# Waste-Management-System
 
 # Problem Specification:
        ~ A city municipality decided to collect wastes from
