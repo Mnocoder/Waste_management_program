@@ -28,12 +28,12 @@
 
 
 # Data Assumptions:
-Days in which type of waste collected:
-Degradable waste  : 1,4,7,10,...
-Plastic waste      : 2,5,8,11,...
-Electronic waste   : 3,6,9,12,...
+<br/>Days in which type of waste collected:
+<br/>Degradable waste  : 1,4,7,10,...
+<br/>Plastic waste      : 2,5,8,11,...
+<br/>Electronic waste   : 3,6,9,12,...
 
-1kg of Degradable waste  : Rs 5
-1kg of Plastic waste      : Rs 10
-1kg of Electronic waste   : Rs 15
+<br/>1kg of Degradable waste  : Rs 5
+<br/>1kg of Plastic waste      : Rs 10
+<br/>1kg of Electronic waste   : Rs 15
 
